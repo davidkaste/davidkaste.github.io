@@ -76,7 +76,7 @@ I've not been an Android developer along my professional career, here's an overv
 
 ## Free time & hobbies
 
-I really enjoy sharing good times with my wife and little daughter :baby:. I also like to spend good times playing modern board games amd wargames with my friends :game_die:, listening to rock, punk rock or Jamaican music :musical_note:, playing videogames :space_invader:, watching movies and TV series :movie_camera: or simply enjoying a good talk while we drink craft beer[^fn1] :beer:.
+I really enjoy sharing good times with my wife and little daughter :baby:. I also like to spend good times playing modern board games and wargames with my friends :game_die:, listening to rock, punk rock or Jamaican music :musical_note:, playing videogames :space_invader:, watching movies and TV series :movie_camera: or simply enjoying a good talk while we drink craft beer[^fn1] :beer:.
 
 
 ## Contact
