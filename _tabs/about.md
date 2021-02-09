@@ -21,7 +21,7 @@ I've not been an Android developer along my professional career, here's an overv
       <div>
         <span class="date day">01</span>
         <span class="date month small text-muted">Feb</span>
-        <a>Android Tech Lead @ GFT</a>
+        <a>Android Lead @ GFT</a>
       </div>
     </li>
   </ul>
