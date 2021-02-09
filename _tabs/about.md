@@ -81,7 +81,7 @@ I really enjoy sharing good times with my wife and little daughter :baby:. I als
 
 ## Contact
 
-Whatever you need, let me know if I can help you :speech_baloon:. You can use the links to my email and social networks that are located at the bottom of the sidebar.
+Whatever you need, let me know if I can help you :speech_balloon:. You can use the links to my email and social networks that are located at the bottom of the sidebar.
 
 
 
