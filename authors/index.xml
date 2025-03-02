@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DavidKaste</title>
-    <link>https://your_domain.com/</link>
-    <description>Recent content on DavidKaste</description>
+    <title>Authors on DavidKaste</title>
+    <link>https://your_domain.com/authors/</link>
+    <description>Recent content in Authors on DavidKaste</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     <managingEditor>hola@castella.com (David Castellà)</managingEditor>
     <webMaster>hola@castella.com (David Castellà)</webMaster>
     <copyright>© 2025 David Castellà</copyright>
-    <atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://your_domain.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
